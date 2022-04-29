@@ -1,0 +1,41 @@
+C:\Users\fabio\Source\Repos\RentCar\RentCar\obj\Debug\RentCar.csproj.AssemblyReference.cache
+C:\Users\fabio\Source\Repos\RentCar\RentCar\obj\Debug\RentCar.csproj.SuggestedBindingRedirects.cache
+C:\Users\fabio\Source\Repos\RentCar\RentCar\obj\Debug\RentCar.Form1.resources
+C:\Users\fabio\Source\Repos\RentCar\RentCar\obj\Debug\RentCar.Form2.resources
+C:\Users\fabio\Source\Repos\RentCar\RentCar\obj\Debug\RentCar.Main.resources
+C:\Users\fabio\Source\Repos\RentCar\RentCar\obj\Debug\RentCar.Properties.Resources.resources
+C:\Users\fabio\Source\Repos\RentCar\RentCar\obj\Debug\RentCar.csproj.GenerateResource.cache
+C:\Users\fabio\Source\Repos\RentCar\RentCar\obj\Debug\RentCar.csproj.CoreCompileInputs.cache
+C:\Users\fabio\Source\Repos\RentCar\RentCar\bin\Debug\RentCar.exe.config
+C:\Users\fabio\Source\Repos\RentCar\RentCar\bin\Debug\RentCar.exe
+C:\Users\fabio\Source\Repos\RentCar\RentCar\bin\Debug\RentCar.pdb
+C:\Users\fabio\Source\Repos\RentCar\RentCar\obj\Debug\RentCar.exe
+C:\Users\fabio\Source\Repos\RentCar\RentCar\obj\Debug\RentCar.pdb
+C:\Users\fabio\Source\Repos\RentCar\RentCar\obj\Debug\RentCar.Carregistration.resources
+C:\Users\fabio\Source\Repos\RentCar\RentCar\obj\Debug\RentCar.Custumer.resources
+C:\Users\fabio\Source\Repos\RentCar\RentCar\obj\Debug\RentCar.User.resources
+C:\Users\fabio\Source\Repos\RentCar\RentCar\obj\Debug\RentCar.Rental.resources
+C:\Users\fabio\Source\Repos\RentCar\RentCar\obj\Debug\RentCar.Impection.resources
+C:\Users\Marianny\Downloads\1_5132257649798152916\RentCar\RentCar\obj\Debug\RentCar.csproj.AssemblyReference.cache
+C:\Users\Marianny\Downloads\1_5132257649798152916\RentCar\RentCar\obj\Debug\RentCar.exe
+C:\Users\Marianny\Downloads\1_5132257649798152916\RentCar\RentCar\obj\Debug\RentCar.pdb
+C:\Programacion II Final\RentCar - copia\RentCar\obj\Debug\RentCar.csproj.AssemblyReference.cache
+C:\Programacion II Final\RentCar - copia\RentCar\obj\Debug\RentCar.exe
+C:\Programacion II Final\RentCar - copia\RentCar\obj\Debug\RentCar.pdb
+C:\Users\Marianny\source\repos\Programacion II Final - copia\RentCar - copia\RentCar\obj\Debug\RentCar.csproj.AssemblyReference.cache
+C:\Users\Marianny\source\repos\Programacion II Final - copia\RentCar - copia\RentCar\obj\Debug\RentCar.exe
+C:\Users\Marianny\source\repos\Programacion II Final - copia\RentCar - copia\RentCar\obj\Debug\RentCar.pdb
+C:\Users\Marianny\source\repos\Programacion II Final - copia\RentCar - copia\RentCar\bin\Debug\RentCar.exe.config
+C:\Users\Marianny\source\repos\Programacion II Final - copia\RentCar - copia\RentCar\bin\Debug\RentCar.exe
+C:\Users\Marianny\source\repos\Programacion II Final - copia\RentCar - copia\RentCar\bin\Debug\RentCar.pdb
+C:\Users\Marianny\source\repos\Programacion II Final - copia\RentCar - copia\RentCar\obj\Debug\RentCar.Carregistration.resources
+C:\Users\Marianny\source\repos\Programacion II Final - copia\RentCar - copia\RentCar\obj\Debug\RentCar.Custumer.resources
+C:\Users\Marianny\source\repos\Programacion II Final - copia\RentCar - copia\RentCar\obj\Debug\RentCar.Form1.resources
+C:\Users\Marianny\source\repos\Programacion II Final - copia\RentCar - copia\RentCar\obj\Debug\RentCar.Form2.resources
+C:\Users\Marianny\source\repos\Programacion II Final - copia\RentCar - copia\RentCar\obj\Debug\RentCar.Impection.resources
+C:\Users\Marianny\source\repos\Programacion II Final - copia\RentCar - copia\RentCar\obj\Debug\RentCar.Main.resources
+C:\Users\Marianny\source\repos\Programacion II Final - copia\RentCar - copia\RentCar\obj\Debug\RentCar.Properties.Resources.resources
+C:\Users\Marianny\source\repos\Programacion II Final - copia\RentCar - copia\RentCar\obj\Debug\RentCar.Rental.resources
+C:\Users\Marianny\source\repos\Programacion II Final - copia\RentCar - copia\RentCar\obj\Debug\RentCar.User.resources
+C:\Users\Marianny\source\repos\Programacion II Final - copia\RentCar - copia\RentCar\obj\Debug\RentCar.csproj.GenerateResource.cache
+C:\Users\Marianny\source\repos\Programacion II Final - copia\RentCar - copia\RentCar\obj\Debug\RentCar.csproj.CoreCompileInputs.cache
